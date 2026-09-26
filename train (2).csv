@@ -1,0 +1,10 @@
+id,product_code,product_weight_kg,fat_content,shelf_visibility,product_category,product_price,store_code,store_age_years,store_size,store_location_tier,store_format,total_sales
+row_00000,PRD-PRFP9S,14.252,Low Fat,0.0271,Frozen Foods,81.37,STORE-AGY,45,Large,Tier_3,Standard Supermarket,1764.98
+row_00001,PRD-PXXK71,7.698,Low Fat,0.072,HEALTH AND HYGIENE,42.05,STORE-YLW,35,Small,Tier_1,Standard Supermarket,342.13
+row_00002,PRD-V5MOIJ,14.264,Regular,0.0421,Canned,41.35,STORE-89Z,33,Medium,Tier_1,Standard Supermarket,378.85
+row_00003,PRD-UN5Z3J,,Regular,0.0449,soft drinks,174.35,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket,5595.72
+row_00004,PRD-6RDQYB,10.338,Regular,0.012,meat,203.06,STORE-9RG,28,Small,Tier_2,Standard Supermarket,2375.36
+row_00005,PRD-E6VA05,9.222,Low Fat,0.0405,soft drinks,31.69,STORE-89Z,33,Medium,Tier_1,Standard Supermarket,842.75
+row_00006,PRD-MHLD93,,Low Fat,0.1239,Canned,212.23,STORE-7WS,47,Medium,Tier_3,Flagship Hypermarket,4512.7
+row_00007,PRD-EF6Y39,10.21,Regular,0.0133,Snack Foods,142.7,STORE-HL7,23,Medium,Tier_3,Superstore,2373.55
+row_00008,PRD-IAZMTU,14.054,Low Fat,0.0233,baking goods,102.71,STORE-HL7,23,Medium,Tier_3,Superstore,2037.05
